@@ -1,4 +1,4 @@
-package com.example.dhaka_go
+package com.amatullah.dhaka_go
 
 import io.flutter.embedding.android.FlutterActivity
 
