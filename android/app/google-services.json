@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52430862900",
+    "project_id": "dhaka-go-app",
+    "storage_bucket": "dhaka-go-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52430862900:android:06eb7a3eeaecdfa85d2861",
+        "android_client_info": {
+          "package_name": "com.amatullah.dhaka_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzQD-z5fEmIssarP75q-sTiVbTI3gNeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
